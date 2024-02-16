@@ -1,6 +1,6 @@
-<h2>Bem-vindo</h2>
-<hr>
 
+<hr>
+<h2>Bem-vindo</h2>
 <div align="left">
   <h3>Linguagens</h3>
   
