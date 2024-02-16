@@ -1,6 +1,5 @@
 
 <hr>
-<img style="width: 320px" src="./assets/rsantana.jpg" />
 <div align="left">
   <h3>Linguagens</h3>
   
